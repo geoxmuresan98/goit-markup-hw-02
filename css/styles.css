@@ -155,7 +155,7 @@ background: #2F303A;
 text-decoration: none;
 }
 
-.link2{
+.link-address{
 text-decoration: none;
 font-family: 'Roboto';
 font-style: normal;
@@ -163,8 +163,17 @@ font-weight: 400;
 font-size: 14px;
 line-height: 16px;
 letter-spacing: 0.03em;
-
 color: #FFFFFF}
+
+.link-contacts{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);
+}
 
 .title-suggestive{
 font-family: 'Roboto';
